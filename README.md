@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 🚀 Хочу улучшить свои навыки в Python и анализе данных.
 - 📫 Буду рада обсудить интересные задачи!
 
-[GitHub](githubaccount https://github.com/MadiBiZ-finch) | [Kaggle]([https://kaggle.com/](https://www.kaggle.com/madinabm-finch)
+[GitHub](githubaccount https://github.com/MadiBiZ) | [Kaggle]([https://kaggle.com/](https://www.kaggle.com/madinabm)
 
 
